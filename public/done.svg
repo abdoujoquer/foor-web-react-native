@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59 43" width="59" height="43">
+	<title>Icon-3-svg-svg</title>
+	<defs>
+		<image  width="21" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAXCAMAAADTAfSvAAAAAXNSR0IB2cksfwAAAGBQTFRFabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabptabpt+kCA+gAAACB0Uk5TACisRinB/mPj+HCVBwtRDNlY/6kO1ZINnxgEke9vXEp0iEd+AAAAZklEQVR4nM2OSQ6AIBAEcWEUxJVFwO3/vxQNhhC8a506le7MIPQ/srxIZYmhSmVN6EuTNMzntuu9HIA+Eo0Tv7OQoMJu5qCNa0oSmg6mAYtrbqMrBgPHoBiKEQtZt/R7th82tZ9yAicKA5hz86W5AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: none;stroke: #ffce4a } 
+		.s1 { fill: none;stroke: #323643;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+	</style>
+	<path id="Forme 1" fill-rule="evenodd" class="s0" d="m23 10.4c-0.3-1 0.2-2.2 1.3-2.5l20-7.2c1-0.4 2.2 0.1 2.5 1.2l7.1 19.8c0.4 1-0.2 2.2-1.2 2.5l-20.1 7.2c-1 0.4-2.1-0.1-2.5-1.2z"/>
+	<g id="Icon">
+		<path id="Stroke_1" fill-rule="evenodd" class="s1" d="m57.6 22.4l-31.1 11.3"/>
+		<path id="Stroke_3" fill-rule="evenodd" class="s1" d="m1.3 2.4l2-0.7q0.9-0.4 1.9-0.3 1 0 1.9 0.4 0.9 0.4 1.5 1.2 0.7 0.7 1 1.6l9.4 25.7"/>
+		<path id="Stroke_11" fill-rule="evenodd" class="s1" d="m26.4 33.7c0.8 2.3 0.2 4.7-1.5 6.3-1.7 1.6-4.3 2-6.4 1-2.1-1-3.5-3.2-3.4-5.5 0.1-2.4 1.6-4.4 3.9-5.3q1.1-0.4 2.2-0.3 1.2 0.1 2.2 0.5 1.1 0.5 1.9 1.4 0.7 0.8 1.1 1.9z"/>
+		<use id="img1" href="#img1" x="29" y="4"/>
+	</g>
+</svg>
